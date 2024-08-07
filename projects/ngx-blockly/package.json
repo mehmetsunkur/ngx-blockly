@@ -1,13 +1,13 @@
 {
   "name": "ngx-blockly",
-  "version": "15.0.0",
-  "description": "An angular wrapper for google's blockly.",
+  "version": "18.1.3",
+  "description": "An angular wrapper for google's blockly. forked from https://github.com/roroettg/ngx-blockly",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roroettg/ngx-blockly.git"
+    "url": "https://github.com/mehmetsunkur/ngx-blockly.git"
   },
   "bugs": {
-    "url": "https://github.com/roroettg/ngx-blockly/issues"
+    "url": "https://github.com/mehmetsunkur/ngx-blockly/issues"
   },
   "keywords": [
     "angular",
